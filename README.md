@@ -4,7 +4,7 @@ Cli program to write iso files to a usb drive
 Uses DD as a backend
 <hr>
 <h3>Downloads ⭳</h3>
-<img src="https://github.com/user-attachments/assets/6a337f44-eae4-4790-8f7d-b8d6ebb6b644" width="32px">Unix download: <a href="https://github.com/Tre-brock/USB-Tool/releases/download/1.0/USB-TOOL-UNIX.tar.gz">Tarball</a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/a9ef3a14-09ad-46e2-a2e1-bc4278d7a161" width="26px">No windows download yet
+<img src="https://github.com/user-attachments/assets/6a337f44-eae4-4790-8f7d-b8d6ebb6b644" width="32px">Unix download: <a href="https://github.com/Tre-brock/USB-Tool/releases/download/1.0/USB-TOOL-UNIX.tar.gz">Tarball ⭳</a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/user-attachments/assets/a9ef3a14-09ad-46e2-a2e1-bc4278d7a161" width="26px">No windows download yet
 <br>
 <hr>
 <img src="https://github.com/user-attachments/assets/014cc3fb-e483-481b-85d5-15ef404ee889" width=560px>
