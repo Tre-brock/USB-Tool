@@ -1,2 +1,2 @@
 # USB Tool
-<a href="trebrock.net/usb-tool/">Trebrock.net/usb-tool/</a> for more info
+<a href="https://trebrock.net/usb-tool/">Trebrock.net/usb-tool/</a> for more info
