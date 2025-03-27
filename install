@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "Install"
 echo "dd and lsblk are required."
 sudo cp usbtool.sh "/usr/local/bin/usbtool"
