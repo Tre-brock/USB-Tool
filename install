@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Install"
+echo "dd and lsblk are required."
+sudo cp usbtool.sh "/usr/local/bin/usbtool"
+sudo chmod +x "/usr/local/bin/usbtool"
+echo "Done!"
+echo "Run the command 'usbtool' to run the app"
