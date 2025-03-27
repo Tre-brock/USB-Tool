@@ -1,2 +1,2 @@
 # USB Tool
-<a href="https://trebrock.net/usb-tool/">Trebrock.net/usb-tool/</a> for more info
+Licenced under the GPL3 or later
