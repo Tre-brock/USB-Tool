@@ -14,7 +14,7 @@ echo "
    ██║   ╚██████╔╝╚██████╔╝███████╗
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
                                    "
-echo "USB Tool, Write iso to usb drive."
+echo "Version 1.2.1"
 echo ""
 echo "Put the iso location here"
 read iso
