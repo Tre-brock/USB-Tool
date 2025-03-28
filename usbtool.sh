@@ -14,7 +14,7 @@ echo "
    ██║   ╚██████╔╝╚██████╔╝███████╗
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
                                    "
-echo "Version 1.2.1"
+echo "Version 1.3"
 echo ""
 echo "Put the iso location here"
 read iso
