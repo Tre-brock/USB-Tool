@@ -13,9 +13,9 @@ echo "
    ██║   ██║   ██║██║   ██║██║     
    ██║   ╚██████╔╝╚██████╔╝███████╗
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
-                                   "
+                                    "
 echo "Version 1.3"
-echo ""
+echo " "
 echo "Put the iso location here"
 read iso
 sudo lsblk -d

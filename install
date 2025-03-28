@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-echo "Installer for version 1.2.1"
+echo "Installer for version 1.3"
 echo "dd and lsblk are required."
 sudo cp usbtool.sh "/usr/local/bin/usbtool"
 sudo chmod +x "/usr/local/bin/usbtool"
